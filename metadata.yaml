@@ -1,0 +1,200 @@
+ID: "COMP3044"
+SimilarID: []
+Name: "科研写作交流技巧"
+CourseProperty:
+  - Year: "2019_2020"
+    Major:
+      - Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大四"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3044"
+    CourseName: "学术研究英语"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "需要组员合作写论文、做海报、演讲"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "课堂参与"
+        Percentage: 20
+      - Name: "课堂展示"
+        Percentage: 40
+      - Name: "论文"
+        Percentage: 40
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: ""
+  - Year: "2020_2021"
+    Major:
+      - Name: ["计算机", "计算机（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修环节"
+    CourseID: "COMP3044"
+    CourseName: "科研写作交流技巧"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: "需要组员合作写论文、做海报、演讲"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "课堂参与"
+        Percentage: 20
+      - Name: "课堂展示"
+        Percentage: 40
+      - Name: "论文"
+        Percentage: 40
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: ""
+  - Year: "2021_2022"
+    Major:
+      - Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修环节"
+    CourseID: "COMP3044"
+    CourseName: "科研写作交流技巧"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: "需要组员合作写论文、做海报、演讲"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "课堂参与"
+        Percentage: 20
+      - Name: "课堂展示"
+        Percentage: 40
+      - Name: "论文"
+        Percentage: 40
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: ""
+  - Year: "2022_2023"
+    Major:
+      - Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修环节"
+    CourseID: "COMP3044"
+    CourseName: "科研写作交流技巧"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: "需要组员合作写论文、做海报、演讲"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "课堂参与"
+        Percentage: 20
+      - Name: "课堂展示"
+        Percentage: 40
+      - Name: "论文"
+        Percentage: 40
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: ""
+  - Year: "2023_2024"
+    Major:
+      - Name: ["计算机", "智能强基班"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3044"
+    CourseName: "学术研究英语"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "需要组员合作写论文、做海报、演讲"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "课堂参与"
+        Percentage: 20
+      - Name: "课堂展示"
+        Percentage: 40
+      - Name: "论文"
+        Percentage: 40
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: ""
+  - Year: "2024_2025"
+    Major:
+      - Name: ["计算机", "计算机（第二学士学位）", "null"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修环节"
+    CourseID: "COMP3044"
+    CourseName: "科研写作交流技巧"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: "需要组员合作写论文、做海报、演讲"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "课堂参与"
+        Percentage: 20
+      - Name: "课堂展示"
+        Percentage: 40
+      - Name: "论文"
+        Percentage: 40
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: ""
+  - Year: "2025_2026"
+    Major:
+      - Name: ["计算机", "计算机（第二学士学位）", "null"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3044"
+    CourseName: "科研写作交流技巧"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "需要组员合作写论文、做海报、演讲"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "课堂参与"
+        Percentage: 20
+      - Name: "课堂展示"
+        Percentage: 40
+      - Name: "论文"
+        Percentage: 40
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: ""
