@@ -1,0 +1,26 @@
+# 注意: 原始文件缺少所有信息的贡献者署名，已留空处理。
+course_name = "科研写作交流技巧"
+course_code = "COMP3044"
+notices = ""
+
+[[lecturers]]
+name = "Joanna Siebert"
+  [[lecturers.reviews]]
+  content = "挺好的，负责、有责任心，不是很苛刻"
+  author = { name = "", link = "", date = "" }
+
+textbooks = []
+online_resources = []
+course = []
+exam = []
+lab = []
+
+[[advice]]
+content = """
+课程对英语能力有一定的要求，需要看英文的学术论文，掌握内容和基本结构；之后组员合作写论文、做海报、演讲。记得选好队友。
+"""
+author = { name = "", link = "", date = "" }
+
+schedule = []
+related_links = []
+misc = []
