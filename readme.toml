@@ -7,8 +7,8 @@ description = "课程对英语能力有一定的要求，需要看英文的学�
 [[lecturers]]
 name = "Joanna Siebert"
 
-  [[lecturers.reviews]]
-  content = "挺好的，负责、有责任心，不是很苛刻"
+[[lecturers.reviews]]
+content = "挺好的，负责、有责任心，不是很苛刻"
 
 
 [[sections]]
