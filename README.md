@@ -11,6 +11,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - Joanna Siebert
   <!-- TOML-ITEM: id="review-Joanna Siebert-1" -->
   - 挺好的，负责、有责任心，不是很苛刻
