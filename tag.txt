@@ -1,4 +1,0 @@
-category: 限选
-module: 交叉学科方向
-semester: 第三学年秋季
-name: 计算机体系结构
